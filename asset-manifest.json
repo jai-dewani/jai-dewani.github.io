@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f3fcadd.chunk.css",
-    "main.js": "/static/js/main.95bf5aac.chunk.js",
-    "main.js.map": "/static/js/main.95bf5aac.chunk.js.map",
+    "main.css": "/static/css/main.9786b099.chunk.css",
+    "main.js": "/static/js/main.6d3a6285.chunk.js",
+    "main.js.map": "/static/js/main.6d3a6285.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.71617d02.js",
     "runtime-main.js.map": "/static/js/runtime-main.71617d02.js.map",
-    "static/js/2.2fd2ace9.chunk.js": "/static/js/2.2fd2ace9.chunk.js",
-    "static/js/2.2fd2ace9.chunk.js.map": "/static/js/2.2fd2ace9.chunk.js.map",
+    "static/js/2.cc8a8f9f.chunk.js": "/static/js/2.cc8a8f9f.chunk.js",
+    "static/js/2.cc8a8f9f.chunk.js.map": "/static/js/2.cc8a8f9f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6bda2f868fd6a7fe6f257c1499f0cc6d.js": "/precache-manifest.6bda2f868fd6a7fe6f257c1499f0cc6d.js",
+    "precache-manifest.e4b182b867a3598819966253eecb443e.js": "/precache-manifest.e4b182b867a3598819966253eecb443e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3f3fcadd.chunk.css.map": "/static/css/main.3f3fcadd.chunk.css.map",
-    "static/js/2.2fd2ace9.chunk.js.LICENSE": "/static/js/2.2fd2ace9.chunk.js.LICENSE",
+    "static/css/main.9786b099.chunk.css.map": "/static/css/main.9786b099.chunk.css.map",
+    "static/js/2.cc8a8f9f.chunk.js.LICENSE": "/static/js/2.cc8a8f9f.chunk.js.LICENSE",
     "static/media/Jai-small.jpg": "/static/media/Jai-small.8036009e.jpg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.487c4665.svg",
     "static/media/codechef.svg": "/static/media/codechef.7887c80e.svg",
@@ -20,12 +20,13 @@
     "static/media/github.svg": "/static/media/github.f5a069d2.svg",
     "static/media/instagram.svg": "/static/media/instagram.6f7f616f.svg",
     "static/media/linkedin-in.svg": "/static/media/linkedin-in.22bd1739.svg",
-    "static/media/twitter.svg": "/static/media/twitter.0729c42a.svg"
+    "static/media/twitter.svg": "/static/media/twitter.0729c42a.svg",
+    "static/media/wave.gif": "/static/media/wave.f9c573b9.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.71617d02.js",
-    "static/js/2.2fd2ace9.chunk.js",
-    "static/css/main.3f3fcadd.chunk.css",
-    "static/js/main.95bf5aac.chunk.js"
+    "static/js/2.cc8a8f9f.chunk.js",
+    "static/css/main.9786b099.chunk.css",
+    "static/js/main.6d3a6285.chunk.js"
   ]
 }
